@@ -5,6 +5,8 @@ touch : créer fichier
 
 git init 
 git status
-git add . */
+git add . 
+git commit -m "first" 
+*/
 
 console.log('Coucou');
